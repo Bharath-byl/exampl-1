@@ -1,0 +1,5 @@
+print("hii")
+print("hooo")
+print("kk")
+print("hkajspo")
+print("bharath")
